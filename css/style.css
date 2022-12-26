@@ -248,6 +248,7 @@ body {
 .button-container-list-item {
   display: flex;
   margin-bottom: 0px;
+  margin-right: 8px;
   /*border: 2px solid red;*/
 }
 .button-nav {
