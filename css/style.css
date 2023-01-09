@@ -130,12 +130,12 @@ body {
   flex-direction: column;
   margin-right: 30px;
   width: 270px;
-  /*border: 2px solid red;*/
+  border: 2px solid red;
 }
 
 .brand-strong-points {
   display: inline-flex;
-  /*border: 2px solid green;*/
+  border: 2px solid green;
   margin-bottom: 10px;
   font-weight: 700;
   font-size: 14px;
